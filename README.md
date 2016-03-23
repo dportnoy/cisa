@@ -3,9 +3,10 @@
 ##### \*1 Lister Hill National Center for Biomedical Communications, National Library of Medicine, U.S. National Institutes of Health, Bethesda, Maryland, USA
 ###### Codename: cisa
   
-This is the repository for the accompanying source code of the paper. The complete source code is already here. Please check back later to download the full result tables.  
+This is the repository with the accompanying full source code and full tables of results of the AMIA 2016 Annual Symposium paper.  
   
-Feel free to contact us at any time.
+Please feel free to contact us about this project! E-mail Fabrício directly: *fabricio.kury at nih.gov*.  
+Reading and reusing source code can become so much easier after a quick voice talk with the original authors of the code -- we will be glad to help.  
   
 Best regards,  
 Fabrício Kury  
