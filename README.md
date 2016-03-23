@@ -3,7 +3,7 @@
 ##### \*1 Lister Hill National Center for Biomedical Communications, National Library of Medicine, U.S. National Institutes of Health, Bethesda, Maryland, USA
 ###### Codename: cisa
   
-This is the repository for the accompanying source code of the paper. Please check back later to download the complete source code used in this work.  
+This is the repository for the accompanying source code of the paper. The complete source code is already here. Please check back later to download the full result tables.  
   
 Feel free to contact us at any time.
   
